@@ -4,7 +4,7 @@ An interactive dashboard creation using Microsoft Power BI for the Human Resourc
 ### Dataset Discription:
 This is a simple dataset of employee attendace from 1st April 2022 to 17th June 2022. Attendace attributes are as follows. 
 	
-| P | Present |
+ P | Present 
 | PL |Paid Leave |
 | SL | Sick Leave |
 | HPL | Half day PL |
