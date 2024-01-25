@@ -35,3 +35,14 @@ This is a simple dataset of employee attendace from 1st April 2022 to 17th June 
 
 
 [![Report Section](IMAGE_URL)](https://app.powerbi.com/view?r=eyJrIjoiMmE1MjBhNWYtMWJhYi00M2MzLTgxMDUtNTNhZTY1OTMyYzg5IiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9)
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power BI Dashboard</title>
+</head>
+<body>
+    <iframe title="Report Section" width="800" height="600" src="https://app.powerbi.com/view?r=YOUR_POWER_BI_URL" frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
