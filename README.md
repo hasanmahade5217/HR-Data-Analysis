@@ -33,3 +33,6 @@ This is a simple dataset of employee attendace from 1st April 2022 to 17th June 
   5. Monthly attendance, work from home and sick leave curves with trend line. 
   6. Analysis of attendance, work from home and sick leave for each day of the week. 
 
+
+
+<iframe title="Demo" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=3a4c8341-3216-45b7-894b-d3ea54f9952b&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>
